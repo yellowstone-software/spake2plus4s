@@ -1,0 +1,6 @@
+out/
+.bsp/
+.idea/
+.mill-bin/
+.scala-build
+.env
